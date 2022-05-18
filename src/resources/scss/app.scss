@@ -1,0 +1,21 @@
+@import 'variables';
+#head{
+    color: $red_color;
+}
+.test{
+    font-size: 1rem;
+    color: blue;
+}
+.card-course-item{
+    margin-top: 16px;
+}
+.user-avt{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+div .select-all-options{
+    width: 160px;
+    margin: 0 16px;
+}
